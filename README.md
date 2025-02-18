@@ -63,7 +63,7 @@ frontend_library/
 - Search and Filter Books
 - User Authentication (Login/Signup)
 - Responsive Design
-- Integration with Backend API (Node.js + MongoDB)
+  
 
 ---
 
